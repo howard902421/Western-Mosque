@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+Learn to create new repository with html pages
 
-You can use the [editor on GitHub](https://github.com/howard902421/Western-Mosque/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Western Mosque Aya Sofya
+Westermoskee (Dutch pronunciation: [ˌʋɛstərmɔsˈkeː]; Turkish: Ayasofya Camii; English: Western Mosque) is a mosque in Amsterdam in the Netherlands. It is situated on the bank of the canalized river Schinkel in the Chassébuurt in De Baarsjes in the borough of Amsterdam-West. The building was designed by French traditional architects Marc and Nada Breitman. Construction started in 2013 and the building was completed in 2015.The mosque was unofficially opened on 1 April 2016. With a floor surface of 800 m² and a capacity of 1700 people, it is the largest mosque in the Netherlands.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/howard902421/Western-Mosque/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# The pages goes live here: 
+https://howard902421.github.io/Western-Mosque/
